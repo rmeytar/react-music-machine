@@ -12,15 +12,15 @@ import audio8 from "./Audio/08.mp3";
 import audio9 from "./Audio/09.mp3";
 
 const audio = [
-  { sound: audio1, label: "Future Funk" },
-  { sound: audio2, label: "Stutter Break" },
-  { sound: audio3, label: "Bass Groove" },
+  { sound: audio1, label: "Future" },
+  { sound: audio2, label: "Stutter" },
+  { sound: audio3, label: "Groove" },
   { sound: audio4, label: "Guitar" },
-  { sound: audio5, label: "Stompy Slosh" },
+  { sound: audio5, label: "Slosh" },
   { sound: audio6, label: "Tanggu" },
-  { sound: audio7, label: "Maze Politics" },
-  { sound: audio8, label: "Pas Groove" },
-  { sound: audio9, label: "Silent Star" },
+  { sound: audio7, label: "Maze" },
+  { sound: audio8, label: "Pas" },
+  { sound: audio9, label: "Star" },
 ];
 
 class App extends Component {
