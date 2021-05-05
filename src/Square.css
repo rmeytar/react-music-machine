@@ -1,0 +1,35 @@
+.square {
+    margin-left: 20px;
+    margin-top: 100px;
+    justify-content: space-between;
+    border: 2px solid #ffffff;
+    background-color: #afadad;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Blippo', fantasy;
+}
+
+.play-button {
+    justify-content: space-between;
+    border: 1px solid #ffffff;
+    background-color: #afadad;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: Marker Felt, fantasy;
+}
+
+.pause-button {
+    justify-content: space-between;
+    border: 1px solid #ffffff;
+    background-color: #afadad;
+    width: 50px;
+    height: 20px;
+    border-radius: 15px;
+}
+
+
