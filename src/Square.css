@@ -9,7 +9,7 @@
     border-radius: 15px;
     font-weight: bold;
     font-size: 15px;
-    font-family: 'Blippo', fantasy;
+    font-family: "Roboto", sans-serif;
 }
 
 .play-button {
@@ -20,7 +20,7 @@
     height: 30px;
     border-radius: 15px;
     font-size: 15px;
-    font-family: Marker Felt, fantasy;
+    font-family: "Roboto", sans-serif;
 }
 
 .pause-button {
